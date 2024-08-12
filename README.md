@@ -7,6 +7,6 @@
 **Description: The data set contains the list of Music sales between 2017 to 2020 in deffrent countries. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 **Skills: Joins,CTE's,DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 **Technology: SQL Server
-#[Power-Bi](https://github.com/Naveen2890/Poweri-Bi)
+# [Power-Bi](https://github.com/Naveen2890/Poweri-Bi)
 **description:Done projects on Election Analysis and Credit Card Report
 **Technology:Power BI
