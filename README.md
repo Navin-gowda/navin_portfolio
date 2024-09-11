@@ -2,7 +2,7 @@
 # Pizza Sales Analysis
 
 
-code: [Pizza Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/pizzas_slaes.sql)
+Code: [Pizza Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/pizzas_slaes.sql)
 
 Description:
 The data set contains the list of pizza sales in 2015. This project includes the following steps: data loading, data cleaning and preprocessing.
@@ -38,7 +38,9 @@ Skills:data cleaning, data analysis,data visulaization
 Technology:Pandas,Seaborn,Matplotlib
 
 # Zomato data analysis
-code:[Zomato data analysy](https://github.com/Naveen2890/Python/blob/main/Zomato%20data%20analysis.ipynb)
+code: [Zomato data analysy](https://github.com/Naveen2890/Python/blob/main/Zomato%20data%20analysis.ipynb)
+
+
 description:
 The "Zomato Data Analysis" project involves exploring and analyzing Zomato's restaurant data to uncover insights on customer preferences, cuisine popularity, and pricing trends. This analysis helps identify patterns in customer behavior and restaurant performance across various locations, aiding data-driven decision-making for stakeholders.
 
@@ -46,7 +48,7 @@ Skills:data cleaning, data analysis,data visulaization
 
 Technology:Pandas,Seaborn,Matplotlib
 # Credit card report
-code:[Credit Card Report](https://github.com/Naveen2890/Poweri-Bi/blob/main/cridit_card_rprt.pbix)
+code: [Credit Card Report](https://github.com/Naveen2890/Poweri-Bi/blob/main/cridit_card_rprt.pbix)
 
 
 description:The "Credit Card Transaction Report" project uses Power BI to analyze and visualize credit card transaction data, focusing on understanding spending patterns, transaction volumes, and merchant categories.
