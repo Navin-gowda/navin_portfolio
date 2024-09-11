@@ -1,5 +1,8 @@
 # navin's_portfolio
-[Pizza Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/pizzas_slaes.sql)
+Pizza Sales Analysis
+
+
+code[Pizza Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/pizzas_slaes.sql)
 
 Description:
 The data set contains the list of pizza sales in 2015. This project includes the following steps: data loading, data cleaning and preprocessing.
