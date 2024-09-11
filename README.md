@@ -26,7 +26,7 @@ Joins,CTE's,DML(Data Manipulation Language), DQL (Data Query Language), DDL (Dat
 Technology: SQL Server
 
 # Weather data analysis
-code: [Weather data analysis](https://github.com/Naveen2890/Python/blob/main/Weather%20data%20analysis.ipynb)
+Code: [Weather data analysis](https://github.com/Naveen2890/Python/blob/main/Weather%20data%20analysis.ipynb)
 
 
 Description:
@@ -38,7 +38,7 @@ Skills:data cleaning, data analysis,data visulaization
 Technology:Pandas,Seaborn,Matplotlib
 
 # Zomato data analysis
-code: [Zomato data analysy](https://github.com/Naveen2890/Python/blob/main/Zomato%20data%20analysis.ipynb)
+Code: [Zomato data analysy](https://github.com/Naveen2890/Python/blob/main/Zomato%20data%20analysis.ipynb)
 
 
 description:
@@ -48,7 +48,7 @@ Skills:data cleaning, data analysis,data visulaization
 
 Technology:Pandas,Seaborn,Matplotlib
 # Credit card report
-code: [Credit Card Report](https://github.com/Naveen2890/Poweri-Bi/blob/main/cridit_card_rprt.pbix)
+Code: [Credit Card Report](https://github.com/Naveen2890/Poweri-Bi/blob/main/cridit_card_rprt.pbix)
 
 
 description:The "Credit Card Transaction Report" project uses Power BI to analyze and visualize credit card transaction data, focusing on understanding spending patterns, transaction volumes, and merchant categories.
