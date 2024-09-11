@@ -14,7 +14,7 @@ Technology:
 SQL Server
 
 Music Sales Analysis
-# Code: (https://github.com/Naveen2890/SQL/blob/master/musicStore_analysis.sql)
+# Code: [Music Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/musicStore_analysis.sql)
 Description:
 The data set contains the list of Music sales between 2017 to 2020 in deffrent countries. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -22,18 +22,15 @@ Skills:
 Joins,CTE's,DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 Technology: SQL Server
-# code: (https://github.com/Naveen2890/Poweri-Bi)
-description:
-Done projects on and Credit Card Report
-
-Technology:Power BI
 
 Weather data analysis
-# [Python-Project] code (https://github.com/Naveen2890/Python)
+# code: [Weather data analysis](https://github.com/Naveen2890/Python)
 Description:
 The "Weather Data Analysis" project involves analyzing historical weather data to uncover patterns, trends, and insights. This project focuses on data exploration, cleaning, and visualization to understand various weather phenomena, such as temperature variations, precipitation levels, humidity, wind speed, and other meteorological parameters over a period of time. By utilizing statistical and data analysis techniques, this project aims to provide a comprehensive understanding of weather patterns and their potential impacts
 
 Skills:data cleaning, data analysis,data visulaization
+
+
 Technology:Pandas,Seaborn,Matplotlib
 
 Zomato data analysis
@@ -45,3 +42,8 @@ Skills:data cleaning, data analysis,data visulaization
 
 Technology:Pandas,Seaborn,Matplotlib
 
+# code: (https://github.com/Naveen2890/Poweri-Bi)
+description:
+Done projects on and Credit Card Report
+
+Technology:Power BI
