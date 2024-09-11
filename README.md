@@ -2,7 +2,7 @@
 Pizza Sales Analysis
 
 
-code[Pizza Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/pizzas_slaes.sql)
+code: [Pizza Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/pizzas_slaes.sql)
 
 Description:
 The data set contains the list of pizza sales in 2015. This project includes the following steps: data loading, data cleaning and preprocessing.
@@ -12,7 +12,9 @@ DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition
 
 Technology:
 SQL Server
-# [Music Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/musicStore_analysis.sql)
+
+Music Sales Analysis
+# Code: (https://github.com/Naveen2890/SQL/blob/master/musicStore_analysis.sql)
 Description:
 The data set contains the list of Music sales between 2017 to 2020 in deffrent countries. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -20,7 +22,7 @@ Skills:
 Joins,CTE's,DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 Technology: SQL Server
-(https://github.com/Naveen2890/Poweri-Bi)
+# code: (https://github.com/Naveen2890/Poweri-Bi)
 description:
 Done projects on and Credit Card Report
 
