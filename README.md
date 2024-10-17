@@ -55,3 +55,18 @@ description:The "Credit Card Transaction Report" project uses Power BI to analyz
 
 
 Technology:Power BI
+
+#Customer retention
+code:
+
+
+Objective: Enhance customer retention by improving tech support, increasing long-term contract sales, and promoting automatic payments.
+
+
+Key Actions:
+Increase Tech Support Capacity: Analyzed Fiber Optic customer support data using Power BI to identify inefficiencies. Developed strategies to streamline tech support processes, reducing tech tickets per customer to a target of 0.5.
+Boost Contract Sales: Conducted data analysis to track contract renewals and customer behavior, with a goal of increasing sales of 1-year and 2-year contracts by 5%. Designed Power BI dashboards to forecast trends and presented recommendations to the sales team.
+Promote Automatic Payments: Assessed payment trends and identified potential customer segments for automatic payment adoption. Proposed targeted strategies to increase automatic payment enrollment by 5% annually through customer education and incentives.
+Outcome: Delivered data-driven insights and recommendations, aimed at enhancing customer retention by optimizing tech support, increasing long-term contract sales, and driving higher automatic payment adoption rates.
+
+Technology:Power BI
