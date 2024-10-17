@@ -57,7 +57,7 @@ description:The "Credit Card Transaction Report" project uses Power BI to analyz
 Technology:Power BI
 
 # Customer retention
-code:
+code:[Customer retetntion](https://github.com/Navin-gowda/Poweri-Bi/blob/main/Churn%20analysis.pbix)
 
 
 Objective: Enhance customer retention by improving tech support, increasing long-term contract sales, and promoting automatic payments.
