@@ -48,7 +48,7 @@ Skills:data cleaning, data analysis,data visulaization
 
 Technology:Pandas,Seaborn,Matplotlib
 # Credit card report
-Code: [Credit Card Report](https://github.com/Naveen2890/Poweri-Bi/blob/main/cridit_card_rprt.pbix)
+Code: [Credit Card Report](https://github.com/Navin-gowda/Poweri-Bi/tree/main/creditCard-Analysis)
 
 
 description:The "Credit Card Transaction Report" project uses Power BI to analyze and visualize credit card transaction data, focusing on understanding spending patterns, transaction volumes, and merchant categories.
