@@ -1,18 +1,4 @@
 # navin's_portfolio
-# Pizza Sales Analysis
-
-
-Code: [Pizza Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/pizzas_slaes.sql)
-
-Description:
-The data set contains the list of pizza sales in 2015. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-Skills:
-DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-Technology:
-SQL Server
-
 # Music Sales Analysis
 Code: [Music Sales Analysis](https://github.com/Naveen2890/SQL/blob/master/musicStore_analysis.sql)
 
