@@ -81,5 +81,9 @@ Technology:Power BI
 code:[Coffe order sales analysis](https://github.com/Navin-gowda/Ms-excel)
 
  Analyzed coffee sales data (2019-2022) to identify trends, top-selling products, and peak sales periods.
+
+ 
  Leveraged VLOOKUP, Pivot Tables, and Excel data visualization tools to generate sales reports.
+ 
+ 
  Provided insights into customer preferences and revenue growth, optimizing product offerings and promotions.
