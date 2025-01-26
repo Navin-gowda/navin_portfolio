@@ -76,3 +76,10 @@ Promote Automatic Payments: Assessed payment trends and identified potential cus
 Outcome: Delivered data-driven insights and recommendations, aimed at enhancing customer retention by optimizing tech support, increasing long-term contract sales, and driving higher automatic payment adoption rates.
 
 Technology:Power BI
+
+# Coffe order Sales analysis
+code:[Coffe order sales analysis](https://github.com/Navin-gowda/Ms-excel)
+
+ Analyzed coffee sales data (2019-2022) to identify trends, top-selling products, and peak sales periods.
+ Leveraged VLOOKUP, Pivot Tables, and Excel data visualization tools to generate sales reports.
+ Provided insights into customer preferences and revenue growth, optimizing product offerings and promotions.
