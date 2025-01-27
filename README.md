@@ -10,19 +10,6 @@ Skills:
 Joins,CTE's,DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
 Technology: SQL Server
-
-# Weather data analysis
-Code: [Weather data analysis](https://github.com/Naveen2890/Python/blob/main/Weather%20data%20analysis.ipynb)
-
-
-Description:
-The "Weather Data Analysis" project involves analyzing historical weather data to uncover patterns, trends, and insights. This project focuses on data exploration, cleaning, and visualization to understand various weather phenomena, such as temperature variations, precipitation levels, humidity, wind speed, and other meteorological parameters over a period of time. By utilizing statistical and data analysis techniques, this project aims to provide a comprehensive understanding of weather patterns and their potential impacts
-
-Skills:data cleaning, data analysis,data visulaization
-
-
-Technology:Pandas,Seaborn,Matplotlib
-
 # Zomato data analysis
 Code: [Zomato data analysy](https://github.com/Naveen2890/Python/blob/main/Zomato%20data%20analysis.ipynb)
 
